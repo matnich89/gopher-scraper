@@ -71,4 +71,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Warning
 
-This tool should only be used for legitimate penetration testing and security assessment purposes where explicit permission has been granted. Unauthorized use of this tool may violate applicable laws and regulations.
+This tool should only be used for legitimate penetration testing and security assessment purposes where explicit permission has been granted. Unauthorised use of this tool may violate applicable laws and regulations.
